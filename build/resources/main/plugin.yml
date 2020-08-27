@@ -1,7 +1,0 @@
-name: Debugger
-main: org.sweetiebelle.debugger.Debugger
-version: 1
-api-version: 1.16
-authors: [SweetieBelle]
-description: >
-             Does various debug stuff.
